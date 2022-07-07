@@ -213,8 +213,8 @@ We hereby acknowldge all the original developers who inspired us for putting tog
 
 In case you found problems in our codes or had suggestions for improving them, please let us know by sending Pool Requests in GitHub, or emailing us directly using the following addresses:
 
- - rouzrokh.pouria@mayo.edu
- - khosravi.bardia@mayo.edu
+ - po.rouzrokh@gmail.com
+ - bardiakhosravi95@gmail.com
 
 ### :copyright:License
 
